@@ -2,9 +2,9 @@
 
 Thanks for your interest in contributing to the community driven GPT-3 Sandbox. We're grateful for your initiative! ❤️
 
-We are [Shubham](https://www.linkedin.com/in/shubhamsaboo/) and [Sandra](https://www.linkedin.com/in/sandrakublik/), Foundes of [Kairos Data Labs](https://www.linkedin.com/company/kairos-data-labs). We are very excited to have you here and invite you to contribute towards the development of GPT-3 sandbox to make it accessible and usable for everyone.
+We are [Shubham](https://www.linkedin.com/in/shubhamsaboo/) and [Sandra](https://www.linkedin.com/in/sandrakublik/), co-founders of [Kairos Data Labs](https://www.linkedin.com/company/kairos-data-labs). We are very excited to have you here and invite you to contribute towards the development of GPT-3 sandbox to make it accessible and usable for everyone.
 
-In this guide, we're going to talk about different ways in which you can contribute to this open-source project, We look forward to your contributions!
+In this guide, we'll walk you through ways in which you can contribute.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -23,10 +23,10 @@ In this guide, we're going to talk about different ways in which you can contrib
 
 ### Submitting Issues
 
-We love to get issue reports. But we love it even more if they're in the right format. For any bugs you encounter, we need you to:
+We love to get issue reports. But we love it even more, if they're in the right format. For any bugs you encounter, we need you to:
 
 * **Describe your problem**: What exactly is the bug. Be as clear and concise as possible
-* **Why do you think it's happening?** If you have any insight, here's where to share it
+* **Why do you think it's happening?** If you have any insight, pls share
 
 There are also a couple of nice to haves:
 
@@ -149,7 +149,7 @@ streamlit run gpt_app.py
 <a name="-referecnce-resources"></a>
 ## 📖 Reference Resources
 
-For your reference we have created an array of applications to take inspiration from and come up with new ideas that can be useful for the community in General 
+For your reference, we have created example applications to take inspiration from and come up with new ideas that can be useful for the developer community.
 
 * [GPT-3 Applications](https://shubhamsaboo111.medium.com/) 
 * [Video Tutorials/examples](https://www.youtube.com/channel/UCjG6QzmabZrBEeGh3vi-wDQ)
@@ -157,4 +157,4 @@ For your reference we have created an array of applications to take inspiration 
 
 ## 🙏 Thank You
 
-Once again, thanks so much for your interest in contributing to Kairos Gpt-3 Sandbox. We're excited to see your contributions!
+Thanks so much for your interest in contributing to this sandbox. We're excited to see your contributions!
