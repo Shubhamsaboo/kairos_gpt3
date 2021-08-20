@@ -13,7 +13,7 @@ https://share.streamlit.io/shubhamsaboo/gpt3_sandbox/gpt_app.py
 ```
 
 ## 💥 Bringing up GPT-3 Sandbox Locally
-🍴 Fork the `kairos_gpt3` repo and clone onto your computer using the following command 
+🍴 Clone the `kairos_gpt3` repository using the following command
 
 ```bash
 git clone https://github.com/Shubhamsaboo/kairos_gpt3.git
