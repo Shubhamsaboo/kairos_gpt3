@@ -140,7 +140,7 @@ From `/email_generation` folder, you can run the following command to install th
 pip install -r requirements.txt
 ```
 
-After installing the required dependencies, you can run the bring up the main application to validate that its working in your local enviroment. To bring up the application, you can run the following command from within the email_generation folder.
+After installing the required dependencies, you can bring up the main application to validate that its working in your local enviroment. To bring up the application, you can run the following command from the `email_generation` folder.
 
 ```bash
 streamlit run gpt_app.py

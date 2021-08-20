@@ -42,19 +42,19 @@ streamlit run gpt_app.py
 
 
 ## 🎨 How to create an example application
-* To create an app with a basic flow, you can use our default template for [Email Generation App](https://github.com/Shubhamsaboo/kairos-gpt3/tree/main/GPT-3%20Sandbox/email_generation)
-* This template has a flow that will work well for a couple of basic use-cases and you can use it just by replacing the default [training prompt](https://github.com/Shubhamsaboo/kairos-gpt3/blob/main/GPT-3%20Sandbox/email_generation/training_data.py) with your application specifc prompt
+* To create an app with a basic flow, you can use our default template for [Email Generation App](https://github.com/Shubhamsaboo/kairos_gpt3/tree/master/GPT-3%20Sandbox/email_generation)
+* This template has a flow that will work well for a couple of basic use-cases and you can use it just by replacing the default [training prompt](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/GPT-3%20Sandbox/email_generation/training_data.py) with your application specifc prompt
 * To test the application, provide a one-line task description in the -> **Input** text box
 * You would then get an **Output** -> that should give you a good feeling of how to structure your application specifc tasks
 
 
 ## 🙌 Customize your application & contribute 
-* If you want to play with the code and [contribute](https://github.com/Shubhamsaboo/kairos_gpt3/blob/main/CONTRIBUTE.md) your own application templates, please do! Sharing the knowledge with the GPT-3 community is the key mission of this sandbox ❤️
+* If you want to play with the code and [contribute](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/CONTRIBUTE.md) your own application templates, please do! Sharing the knowledge with the GPT-3 community is the key mission of this sandbox ❤️
 * To customize the UI of the web-applicaiton, please refer to the [Streamlit](https://docs.streamlit.io) 📖
 
 
 ##  🐾 **About the Sandbox**
-* This is an open-source 🔧 and it is alive thanks to the awesome GPT-3 community. If you'd like to contribute, please check [Collaboration Guidelines](https://github.com/Shubhamsaboo/kairos_gpt3/blob/main/CONTRIBUTE.md)
+* This is an open-source 🔧 and it is alive thanks to the awesome GPT-3 community. If you'd like to contribute, please check [Collaboration Guidelines](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/CONTRIBUTE.md)
 * If you are curious about what _exactly_ went behind this sandbox, check out the [source code](https://github.com/Shubhamsaboo/kairos_gpt3)
 * We are still working on it and we'd ❤️ to hear from you! If you have ideas how to improve the Sandbox, let us know [here](sandra@kairosdatalabs.com)
 
