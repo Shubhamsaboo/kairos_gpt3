@@ -27,13 +27,13 @@ def app():
 
         st.write(f"""
         ### 🎨 How to create an example application
-        - To create an app with a basic flow, you can use our default template for [Email Generation App](https://github.com/Shubhamsaboo/kairos_gpt3/tree/main/GPT-3%20Sandbox/email_generation)
-        - This template has a flow that will work well for a couple of basic use-cases and you can use it just by replacing the default [training prompt](https://github.com/Shubhamsaboo/kairos_gpt3/blob/main/GPT-3%20Sandbox/email_generation/training_data.py) with your application specifc prompt
+        - To create an app with a basic flow, you can use our default template for [Email Generation App](https://github.com/Shubhamsaboo/kairos_gpt3/tree/master/GPT-3%20Sandbox/email_generation)
+        - This template has a flow that will work well for a couple of basic use-cases and you can use it just by replacing the default [training prompt](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/GPT-3%20Sandbox/email_generation/training_data.py) with your application specifc prompt
         - To test the application, provide a one-line task description in the -> **Input** text box
         - You would then get an **Output** -> that should give you a good feeling of how to structure your application specifc tasks
         
         ### 🙌 Customize your application & contribute 
-        - If you want to play with the code and [contribute](https://github.com/Shubhamsaboo/kairos_gpt3/blob/main/CONTRIBUTE.md) your own application templates, please do! Sharing the knowledge with the GPT-3 community is the key mission of this sandbox ❤️
+        - If you want to play with the code and [contribute](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/CONTRIBUTE.md) your own application templates, please do! Sharing the knowledge with the GPT-3 community is the key mission of this sandbox ❤️
         - To customize the UI of the web-applicaiton, please refer to the [Streamlit](https://docs.streamlit.io) 📖
         """)
 
