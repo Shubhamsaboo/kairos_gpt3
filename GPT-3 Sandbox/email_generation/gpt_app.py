@@ -9,7 +9,7 @@ st.set_page_config(
 
 # Pages as key-value pairs
 PAGES = {
-    "Dashborad": app1,
+    "Dashboard": app1,
     "GPT-3 Sandbox": app2
 }
 
