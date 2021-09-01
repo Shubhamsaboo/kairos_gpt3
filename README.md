@@ -2,6 +2,10 @@
 
 <h3 align="center">🧠 Powered by <ins>Kairos Data Labs</ins><sup><a  href="https://www.linkedin.com/company/kairos-data-labs">[?]</a></sup> </h3>
 
+
+> 🏁: **You need access to the OpenAI API Key to play with this Sandbox**: If you dont have the access to the API, please apply [here](https://beta.openai.com/) ✌️
+
+
 ## 👾 Create & deploy GPT-3 powered apps
 * This sandbox is an open-source 🔧to enable anyone turn their GPT-3 app ideas into reality with just a few lines of Python code
 * It is built on top of Streamlit that enables you to quickly create & deploy web applications
