@@ -124,4 +124,3 @@ Thank you,
 Input: {}
 
 Output: """
-
