@@ -46,8 +46,8 @@ streamlit run gpt_app.py
 
 
 ## 🎨 How to create an example application
-* To create an app with a basic flow, you can use our default template for [Email Generation App](https://github.com/Shubhamsaboo/kairos_gpt3/tree/master/GPT-3%20Sandbox/email_generation)
-* This template has a flow that will work well for a couple of basic use-cases and you can use it just by replacing the default [training prompt](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/GPT-3%20Sandbox/email_generation/training_data.py) with your application specifc prompt
+* To create an app with a basic flow, you can use our default template for [Email Generation App](https://github.com/Shubhamsaboo/kairos_gpt3/tree/master/GPT-3_Sandbox/email_generation)
+* This template has a flow that will work well for a couple of basic use-cases and you can use it just by replacing the default [training prompt](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/GPT-3_Sandbox/email_generation/training_data.py) with your application specifc prompt
 * To test the application, provide a one-line task description in the -> **Input** text box
 * You would then get an **Output** -> that should give you a good feeling of how to structure your application specifc tasks
 
@@ -60,7 +60,7 @@ streamlit run gpt_app.py
 ##  🐾 **About the Sandbox**
 * This is an open-source 🔧 and it is alive thanks to the awesome GPT-3 community. If you'd like to contribute, please check [Collaboration Guidelines](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/CONTRIBUTE.md)
 * If you are curious about what _exactly_ went behind this sandbox, check out the [source code](https://github.com/Shubhamsaboo/kairos_gpt3)
-* We are still working on it and we'd ❤️ to hear from you! If you have ideas how to improve the Sandbox, let us know [here](sandra@kairosdatalabs.com)
+* We are still working on it and we'd ❤️ to hear from you! If you have ideas how to improve the Sandbox, let us know [here](shubhamsaboo111@gmail.com)
 
 
 ## 🔗 Connect With Us
@@ -73,4 +73,4 @@ streamlit run gpt_app.py
 For your reference we have created an array of applications to take inspiration from and come up with new ideas that can be useful for the community in General 
 
 * [GPT-3 Applications](https://shubhamsaboo111.medium.com/) 
-* [Video Tutorials/examples](https://www.youtube.com/channel/UCjG6QzmabZrBEeGh3vi-wDQ)
+* [Video Tutorials/examples](https://www.youtube.com/channel/UCWRXc4CeXy5f0dQdJ2XWliw)
