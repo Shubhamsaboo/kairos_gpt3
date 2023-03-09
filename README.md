@@ -13,7 +13,7 @@
 
 ## 🎈 Try out our Sandbox Application
 ```bash
-https://share.streamlit.io/shubhamsaboo/gpt3_sandbox/gpt_app.py
+https://shubhamsaboo-gpt3-sandbox-gpt-app-exnqq8.streamlit.app/
 ```
 
 ## 💥 Bringing up GPT-3 Sandbox Locally
