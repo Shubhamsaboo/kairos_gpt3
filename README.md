@@ -13,7 +13,7 @@
 
 ## 🎈 Try out our Sandbox Application
 ```bash
-https://gpt3-sandbox.streamlit.app/
+https://gpt3-sandbox.streamlit.app
 ```
 
 ## 💥 Bringing up GPT-3 Sandbox Locally
