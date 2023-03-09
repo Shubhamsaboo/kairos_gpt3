@@ -1,5 +1,5 @@
 # Format of training prompt
-defaultPrompt = """I am an intelligent email assistant that can generate the following emails from the descriptive input:
+defaultPrompt = """I am an intelligent email assistant that can generate emails from the input description. Here are some examples of what I can do:
 Input: Thank John for the book, John is a childhood friend who gifted me a book last week on my birthday.
 
 Output:
@@ -12,7 +12,7 @@ Thank you so much for giving such a precious gift.
 I really appreciate this gesture amd hope to hang out soon. 
 
 Your friend,
--
+[your_name]
 
 
 Input: Tell TechCorp I appreciate the great service, I visted the TechCorp showroom last weekend wherre I was very impressed by the warmth and great service of their staff
@@ -25,7 +25,7 @@ I want you to know that I appreciate the great service at TechCorp.
 The staff is outstanding and I enjoy every visit.
 
 Sincerely,
--
+[your_name]
 
 
 Input: Invite Amanda and Paul to the company event Friday night. Amanda and Paul are close friends. This friday we are celebrating the five year anniversary for zolotech
@@ -40,7 +40,7 @@ With great joy and immense plesure I would like to invite you to the fith annive
 Looking forward to seeing you there.
 
 Your friend,
--
+[your_name]
 
 
 Input: Invoice Kelly Watkins $500 for design consultation. Last week I have consulted kelly for five hours in her opensource design project enigma.
@@ -54,7 +54,7 @@ Sending you an invoice of $500 for helping you with your project Enigma.
 It was a pleasure to work with you.
 
 Sincerely,
--
+[your_name]
 
 
 Input: Thank Sarah for a great meal. I am Patrick and Sarah is my wife, she bought me a great lunch this afternoon
@@ -73,7 +73,7 @@ Please do keep this up.
 You are a great cook.
 
 Love,
--
+[your_name]
 
 
 Input: Ask Jane to send the release doc to Google corp. Jane is my secretary, she has the release documents for LendKart application, which is a peer-to-peer lending platform
@@ -86,7 +86,7 @@ Please send the release documents for the LendKart application to Google corp.
 They have been asking me for the same.
 
 Thanks,
--
+[your_name]
 
 
 Input: Introduce the new Customer Support Representative to the team. Ram currently started working as Customer Rep for Xolo Corp
@@ -101,7 +101,7 @@ He has been with us for a week now and I am sure you will love working with him.
 Please make him feel welcome.
 
 Thanks,
--
+[your_name]
 
 
 Input: complaint for bad quality headphones. Recently purchased Boat headphones from amazon
@@ -118,7 +118,7 @@ The sound quality is very poor and I am not satisfied with the product.
 I would like to request you to either replace the product or refund my money.
 
 Thank you,
--
+[your_name]
 
 
 Input: {}

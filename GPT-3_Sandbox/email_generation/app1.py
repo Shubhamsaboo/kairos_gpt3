@@ -27,13 +27,13 @@ def app():
         ###  🐾 **About the Sandbox**
         - This is an open-source 🔧 and it is alive thanks to the awesome GPT-3 community. If you'd like to contribute, please check [Collaboration Guidelines](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/CONTRIBUTE.md)
         - If you are curious about what _exactly_ went behind this sandbox, check out the [source code](https://github.com/Shubhamsaboo/kairos_gpt3)
-        - We are still working on it and we'd ❤️ to hear from you! If you have ideas on how to improve the Sandbox, let us know [here](sandra@kairosdatalabs.com)
+        - We are still working on it and we'd ❤️ to hear from you! If you have ideas how to improve the Sandbox, let us know [here](https://twitter.com/Saboo_Shubham_). My DMs are open for new ideas and collaboration!
         """)
 
     st.write(f"""
             ---
             ### 🔗 **Connect With Us**
-            - We are [Shubham](https://www.linkedin.com/in/shubhamsaboo/) and [Sandra](https://www.linkedin.com/in/sandrakublik/), co-founders of [Kairos Data Labs](https://www.linkedin.com/company/kairos-data-labs) 
+            - We are Shubham - [LinkedIn](https://www.linkedin.com/in/shubhamsaboo/) | [Twitter](https://twitter.com/Saboo_Shubham_) and Sandra - [LinkedIn](https://www.linkedin.com/in/sandrakublik/) | [Twitter](https://twitter.com/sandra_kublik), co-founders of [Kairos Data Labs](https://www.linkedin.com/company/kairos-data-labs)  
             - We are super excited to have you here. Our mission is to make the [GPT-3 Sandbox](https://github.com/Shubhamsaboo/kairos_gpt3) accessible and usable to everyone who wants to build applications with OpenAI's GPT-3 ❤️ 
             - Come by 🤗 [the forum](https://github.com/Shubhamsaboo/kairos_gpt3) if you'd like to ask questions, post an awesome app, or just say Hi!
         """)
